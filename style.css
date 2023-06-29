@@ -1,6 +1,6 @@
 /* Header */
 .header {
-  height: 14vw;
+  height: 6vw;
   margin: 2vw 0;
 }
 #search {
@@ -13,7 +13,7 @@
   padding: 1vw;
 }
 #icon-header {
-  font-size: 1.5vw;
+  font-size: 2vw;
   padding: 1vw 1vw 0;
 }
 
@@ -45,7 +45,7 @@
 .brand {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 16px;
+  gap: 2vw;
   margin-top: 4vw;
 }
 .brand-i img {
